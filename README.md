@@ -44,4 +44,4 @@
 
 I care about the moment a feature becomes understandable: responsive gameplay, tools with a short path to value, and prototypes that get the core loop in players' hands early.
 
-If you are building something in Unreal, or want to compare notes on game systems and developer tools—feel free to reach out through my [portfolio](https://mukund-portfolio-chi.vercel.app/).
+If you are building something in Unreal, or want to compare notes on game systems and developer tools - feel free to reach out through my [portfolio](https://mukund-portfolio-chi.vercel.app/).
