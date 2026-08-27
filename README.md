@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  I build player-facing gameplay systems, editor tooling, and interactive prototypes—with a particular interest in making complex game-development workflows feel clear and useful.
+  I build player-facing gameplay systems, editor tooling, and interactive prototypes, with a particular interest in making complex game-development workflows feel clear and useful.
 </p>
 
 <p align="center">
@@ -22,9 +22,9 @@
 
 ## What I build
 
-- **Gameplay systems** — Unreal Engine C++ and Blueprint work, including the Gameplay Ability System and 2D action-adventure foundations.
-- **Tools for developers** — editor-facing experiences that bring AI assistance into the Unreal workflow without getting in the way.
-- **Playable experiments** — compact prototypes that test interaction, multiplayer, UI, and new mechanics.
+- **Gameplay systems:** Unreal Engine C++ and Blueprint work, including the Gameplay Ability System and 2D action-adventure foundations.
+- **Tools for developers:** editor-facing experiences that bring AI assistance into the Unreal workflow without getting in the way.
+- **Playable experiments:** compact prototypes that test interaction, multiplayer, UI, and new mechanics.
 
 ## Selected work
 
@@ -44,4 +44,4 @@
 
 I care about the moment a feature becomes understandable: responsive gameplay, tools with a short path to value, and prototypes that get the core loop in players' hands early.
 
-If you are building something in Unreal, or want to compare notes on game systems and developer tools - feel free to reach out through my [portfolio](https://mukund-portfolio-chi.vercel.app/).
+If you are building something in Unreal, or want to compare notes on game systems and developer tools, feel free to reach out through my [portfolio](https://mukund-portfolio-chi.vercel.app/).
