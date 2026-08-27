@@ -5,11 +5,11 @@
 <h1 align="center">Mukund Pareek</h1>
 
 <p align="center">
-  <strong>Game Developer · C++ · Unreal Engine</strong>
+  <strong>Unreal Engine Gameplay Programmer · C++ · GAS · Multiplayer Systems</strong>
 </p>
 
 <p align="center">
-  I build player-facing gameplay systems, editor tooling, and interactive prototypes, with a particular interest in making complex game-development workflows feel clear and useful.
+  I build gameplay architecture, network-aware systems, AI, and developer tools for Unreal Engine projects.
 </p>
 
 <p align="center">
@@ -22,9 +22,13 @@
 
 ## What I build
 
-- **Gameplay systems:** Unreal Engine C++ and Blueprint work, including the Gameplay Ability System and 2D action-adventure foundations.
-- **Tools for developers:** editor-facing experiences that bring AI assistance into the Unreal workflow without getting in the way.
-- **Playable experiments:** compact prototypes that test interaction, multiplayer, UI, and new mechanics.
+- **Gameplay systems:** Unreal Engine C++ and Blueprint architecture for abilities, attributes, combat, movement, and interaction.
+- **Multiplayer foundations:** replicated state, server-authoritative gameplay, PlayerState-owned systems, and network-aware UI.
+- **Developer tools:** editor and desktop tooling that brings AI assistance into Unreal workflows without getting in the way.
+
+## Professional focus
+
+My studio work centers on gameplay architecture, multiplayer systems, character movement, combat, AI, and UI. Production source is held in private commercial repositories and Perforce, so the technical context is documented through case studies on my [portfolio](https://mukund-portfolio-chi.vercel.app/).
 
 ## Selected work
 
@@ -32,9 +36,13 @@
 | --- | --- | --- |
 | [UnrealBuddy](https://github.com/MukundPareek15/Unreal-Buddy) | A screen-aware AI companion for Unreal developers, with contextual guidance, a floating prompt panel, and cursor-led UI help. | Python · AI tools · Windows |
 | [Minesweeper AI Chat Plugin](https://github.com/MukundPareek15/Chatbot-GameGeneration) | An Unreal Editor plugin that turns natural-language prompts into playable Minesweeper grids directly in a Slate window. | C++ · Unreal Engine · Slate |
-| [GAS System 5.3](https://github.com/MukundPareek15/GAS-System-5.3) | A UE 5.3-compatible exploration of Unreal's Gameplay Ability System. | C++ · Unreal Engine · GAS |
+| [GAS System 5.3](https://github.com/MukundPareek15/GAS-System-5.3) | A focused UE 5.3 learning sandbox for replicated attributes, Gameplay Effects, abilities, and reactive UI. | C++ · Unreal Engine · GAS |
+| [WWE CommonUI Menu](https://github.com/MukundPareek15/WWE_Main_Menu) | A WWE 2K-inspired front-end menu prototype built around Unreal Engine CommonUI. | Unreal Engine · CommonUI · UI |
 | [Paper Project](https://github.com/MukundPareek15/Paper_Project) | A Blueprint-first 2D action-adventure prototype with combat, inventory, characters, and Paper2D/PaperZD content. | Unreal Engine · Blueprints · Paper2D |
-| [NeonStrike](https://github.com/MukundPareek15/NeonStrike) | A real-time multiplayer arena shooter with live gameplay systems and Base-chain Web3 integration. | JavaScript · Socket.IO · Solidity |
+
+## Toolbox
+
+`C++` · `Unreal Engine 5` · `Gameplay Ability System` · `Replication` · `Enhanced Input` · `Blueprints` · `Slate` · `CommonUI` · `UMG` · `Python` · `AI APIs` · `Perforce`
 
 ## Contribution activity
 
@@ -42,12 +50,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MukundPareek15&amp;theme=transparent" alt="Mukund Pareek's GitHub contribution activity" width="100%" />
 </p>
 
-## Toolbox
-
-`C++` · `Unreal Engine` · `Gameplay Ability System` · `Blueprints` · `Slate` · `Common UI` · `Python` · `AI APIs` · `Perforce`
-
 ## Beyond the code
 
-I care about the moment a feature becomes understandable: responsive gameplay, tools with a short path to value, and prototypes that get the core loop in players' hands early.
+I care about responsive gameplay, clear system boundaries, and tools that shorten the path from an idea to something testable.
 
 If you are building something in Unreal, or want to compare notes on game systems and developer tools, feel free to reach out through my [portfolio](https://mukund-portfolio-chi.vercel.app/).
