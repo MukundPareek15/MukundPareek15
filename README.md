@@ -36,6 +36,12 @@
 | [Paper Project](https://github.com/MukundPareek15/Paper_Project) | A Blueprint-first 2D action-adventure prototype with combat, inventory, characters, and Paper2D/PaperZD content. | Unreal Engine · Blueprints · Paper2D |
 | [NeonStrike](https://github.com/MukundPareek15/NeonStrike) | A real-time multiplayer arena shooter with live gameplay systems and Base-chain Web3 integration. | JavaScript · Socket.IO · Solidity |
 
+## Contribution activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MukundPareek15&amp;theme=transparent" alt="Mukund Pareek's GitHub contribution activity" width="100%" />
+</p>
+
 ## Toolbox
 
 `C++` · `Unreal Engine` · `Gameplay Ability System` · `Blueprints` · `Slate` · `Common UI` · `Python` · `AI APIs` · `Perforce`
