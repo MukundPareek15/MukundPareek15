@@ -44,12 +44,6 @@ My studio work centers on gameplay architecture, multiplayer systems, character 
 
 `C++` · `Unreal Engine 5` · `Gameplay Ability System` · `Replication` · `Enhanced Input` · `Blueprints` · `Slate` · `CommonUI` · `UMG` · `Python` · `AI APIs` · `Perforce`
 
-## Contribution activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MukundPareek15&amp;theme=transparent" alt="Mukund Pareek's GitHub contribution activity" width="100%" />
-</p>
-
 ## Beyond the code
 
 I care about responsive gameplay, clear system boundaries, and tools that shorten the path from an idea to something testable.
