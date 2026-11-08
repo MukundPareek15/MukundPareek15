@@ -1,51 +1,80 @@
+<h1 align="center">Mukund Pareek</h1>
+
+<p align="center">
+  <strong>Gameplay programmer · Multiplayer systems · Developer tools</strong><br />
+  C++ and Unreal Engine, with experiments in browser games and AI-assisted tooling.
+</p>
+
+<p align="center">
+  <a href="https://mukund-portfolio-chi.vercel.app/"><strong>Portfolio & case studies</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://mukund-pareek.itch.io/"><strong>Play my games</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://mukund-portfolio-chi.vercel.app/"><strong>Contact</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/mukund-pareek/">LinkedIn</a>
+</p>
+
 <p align="center">
   <img src="./assets/unreal-game-dev-banner.png" alt="An abstract game-development environment lit in blue and violet" width="100%" />
 </p>
 
-<h1 align="center">Mukund Pareek</h1>
+I build gameplay systems, multiplayer architecture, and tools for Unreal Engine projects. My work spans character movement, combat, abilities, AI, and editor workflows.
 
-<p align="center">
-  <strong>Unreal Engine Gameplay Programmer · C++ · GAS · Multiplayer Systems</strong>
-</p>
+## Play something I've built
 
-<p align="center">
-  I build gameplay architecture, network-aware systems, AI, and developer tools for Unreal Engine projects.
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>Impulse</h3>
+<p><strong>Jetpack arena shooter · Unreal Engine · Windows</strong></p>
+<p>Fight bots across two vertical arenas. Manage fuel, recover from falls, and switch between seven weapons.</p>
+<p>Available as an in-development Windows build. The published version is single-player; multiplayer is planned.</p>
+<p><a href="https://mukund-pareek.itch.io/impulse"><strong>Download Impulse →</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>LoopStruck</h3>
+<p><strong>Time-loop platformer · Godot · Browser</strong></p>
+<p>Your previous attempts become part of the level. Arrange objects on one run, then use their replayed actions to escape on the next.</p>
+<p>Six rooms built around a countdown and persistent consequences.</p>
+<p><a href="https://mukund-pareek.itch.io/loopstruck"><strong>Play in your browser →</strong></a></p>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <a href="https://mukund-portfolio-chi.vercel.app/">Portfolio</a>
-  ·
-  <a href="https://twitter.com/MukundPareek">X / Twitter</a>
-</p>
+## Explore the engineering
+
+| Project | What to inspect | Evidence |
+| :--- | :--- | :--- |
+| **UnitZero** | Server-validated shooting, per-bone lag compensation, GAS, and network diagnostics. | [Networking case study](https://mukund-portfolio-chi.vercel.app/work/unitzero) |
+| **GeoTracker** | A custom Unreal Editor Mode with viewport measurement, click-drag interaction, and Slate tooling. Prototype in progress. | [Editor workflow & case study](https://mukund-portfolio-chi.vercel.app/work/geotracker) |
+| **Minesweeper AI Chat Plugin** | An Unreal Editor plugin with a Slate chat interface, provider-specific HTTP handling, and playable generated grids. | [C++ source & architecture](https://github.com/MukundPareek15/Chatbot-GameGeneration) |
+| **UnrealBuddy** | A Windows adaptation of Clicky with Unreal-specific context, screen capture, streaming responses, and cursor guidance. | [Python source & setup](https://github.com/MukundPareek15/Unreal-Buddy) |
+| **NeonStrike** | A browser arena shooter using HTML5 Canvas, Node.js, and Socket.IO, with Base Sepolia integrations. | [JavaScript source](https://github.com/MukundPareek15/NeonStrike) |
+
+UnitZero and GeoTracker link to public case studies. The source links above lead to public repositories.
+
+<details>
+<summary><strong>More prototypes and learning projects</strong></summary>
+
+- [GAS System 5.3](https://github.com/MukundPareek15/GAS-System-5.3): abilities, replicated attributes, Gameplay Effects, and reactive UI.
+- [WWE CommonUI Menu](https://github.com/MukundPareek15/WWE_Main_Menu): a front-end menu prototype built around CommonUI.
+- [Paper Project](https://github.com/MukundPareek15/Paper_Project): Blueprint-first 2D combat and inventory exploration with Paper2D and PaperZD.
+- [CodeCrafters Shell](https://github.com/MukundPareek15/codecrafters-shell-cpp): C++ practice through the Build Your Own Shell challenge.
+
+</details>
+
+## What I work with
+
+| Area | Tools & systems |
+| :--- | :--- |
+| Gameplay | C++, Unreal Engine 5, Blueprints, Gameplay Ability System, Enhanced Input |
+| Multiplayer | Replication, server-authoritative gameplay, movement prediction, lag compensation |
+| Interfaces & tools | Slate, UMG, CommonUI, Python, PySide6 |
+| Browser experiments | JavaScript, HTML5 Canvas, Node.js, Socket.IO |
 
 ---
 
-## What I build
+**Building a game or an Unreal tool?** [Get in touch through my portfolio](https://mukund-portfolio-chi.vercel.app/) with the system you need built.
 
-- **Gameplay systems:** Unreal Engine C++ and Blueprint architecture for abilities, attributes, combat, movement, and interaction.
-- **Multiplayer foundations:** replicated state, server-authoritative gameplay, PlayerState-owned systems, and network-aware UI.
-- **Developer tools:** editor and desktop tooling that brings AI assistance into Unreal workflows without getting in the way.
-
-## Professional focus
-
-My studio work centers on gameplay architecture, multiplayer systems, character movement, combat, AI, and UI. Production source is held in private commercial repositories and Perforce, so the technical context is documented through case studies on my [portfolio](https://mukund-portfolio-chi.vercel.app/).
-
-## Selected work
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [UnrealBuddy](https://github.com/MukundPareek15/Unreal-Buddy) | A screen-aware AI companion for Unreal developers, with contextual guidance, a floating prompt panel, and cursor-led UI help. | Python · AI tools · Windows |
-| [Minesweeper AI Chat Plugin](https://github.com/MukundPareek15/Chatbot-GameGeneration) | An Unreal Editor plugin that turns natural-language prompts into playable Minesweeper grids directly in a Slate window. | C++ · Unreal Engine · Slate |
-| [GAS System 5.3](https://github.com/MukundPareek15/GAS-System-5.3) | A focused UE 5.3 learning sandbox for replicated attributes, Gameplay Effects, abilities, and reactive UI. | C++ · Unreal Engine · GAS |
-| [WWE CommonUI Menu](https://github.com/MukundPareek15/WWE_Main_Menu) | A WWE 2K-inspired front-end menu prototype built around Unreal Engine CommonUI. | Unreal Engine · CommonUI · UI |
-| [Paper Project](https://github.com/MukundPareek15/Paper_Project) | A Blueprint-first 2D action-adventure prototype with combat, inventory, characters, and Paper2D/PaperZD content. | Unreal Engine · Blueprints · Paper2D |
-
-## Toolbox
-
-`C++` · `Unreal Engine 5` · `Gameplay Ability System` · `Replication` · `Enhanced Input` · `Blueprints` · `Slate` · `CommonUI` · `UMG` · `Python` · `AI APIs` · `Perforce`
-
-## Beyond the code
-
-I care about responsive gameplay, clear system boundaries, and tools that shorten the path from an idea to something testable.
-
-If you are building something in Unreal, or want to compare notes on game systems and developer tools, feel free to reach out through my [portfolio](https://mukund-portfolio-chi.vercel.app/).
+[Portfolio](https://mukund-portfolio-chi.vercel.app/) · [itch.io](https://mukund-pareek.itch.io/) · [LinkedIn](https://www.linkedin.com/in/mukund-pareek/) · [X](https://x.com/MukundPareek)
